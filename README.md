@@ -36,3 +36,4 @@ soroban contract invoke --id <contract_id> --fn register_paper --arg paper1 --ar
 
 ## License
 MIT
+https://stellar.expert/explorer/testnet/tx/81fdde001b3393526a0fd7bded0ef37768a587be449749127e44a2829b6af737
